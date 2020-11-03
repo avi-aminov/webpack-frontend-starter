@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///scss/demo.scss"],"names":[],"mappings":"AAAA,OACI,iBAAkB,C","file":"main.css","sourcesContent":[".title{\n    text-align: center;\n}\n"],"sourceRoot":""}
